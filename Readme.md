@@ -15,16 +15,16 @@
 
 <ol>
     <li><p>Buscar la carpeta Postgree en el inicio (tecla windows) y abrir pgAdmin 4: </p>
-    <img src="./img/Screenshot_1.png"/>
+    <img src="./Img/Screenshot_1.png"/>
     </li></br>
     <li><p>Al ingresar se pedira la contraseña ingresada en la etapa de instalacion: </p>
-    <img src="./img/Screenshot_2.png"/>
+    <img src="./Img/Screenshot_2.png"/>
     </li></br>
     <li><p>Luego abre servers, posterior register y finalmente server: </p>
-    <img src="./img/Screenshot_3.png"/>
+    <img src="./Img/Screenshot_3.png"/>
     </li></br>
     <li><p>Se coloca nombre a la BD: BD_SafeLife(nombre opcional): </p>
-    <img src="./img/Screenshot_4.png"/>
+    <img src="./Img/Screenshot_4.png"/>
     </li></br>
     <li><p>Vamos a configurar nuestra BD: </p>
     Informacion necesaria:</br>
@@ -32,7 +32,7 @@
     Database:d3uef5qnrfdnk2</br>
     User:gsiyywzbkfonjy</br>
     Password:7df55e61c0ebcc9a79d0e7af8d3f26b18d5bdf53c474451a9a52c585fc49e3fe</br>
-    <img src="./img/Screenshot_4.png"/>
+    <img src="./Img/Screenshot_4.png"/>
     </li></br>
 
 
